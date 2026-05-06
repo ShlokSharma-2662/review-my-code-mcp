@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# User and OS files
+.DS_Store
+*.user
+*.suo
+
+# IDE settings (optional to commit)
+.vscode/
+.vs/
