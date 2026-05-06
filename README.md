@@ -186,7 +186,7 @@ After adding entries, call get_rule_backlog to verify your new items are discove
 
 ## Author
 
-Rikam Palkar is the author of this MCP C# Code Review Server, focused on building practical developer tooling for automated code quality, security, and maintainability checks.
+Shlok Sharma is the author of this MCP C# Code Review Server, focused on building practical developer tooling for automated code quality, security, and maintainability checks.
 
 ## Quick File Map
 
